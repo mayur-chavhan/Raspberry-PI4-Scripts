@@ -1,8 +1,8 @@
 #!/bin/bash
-#Script          :Pi4-Remove-GUI.sh
-#Notes           :This script will remove GUI Pi-4 apps and System GUI components from Raspbian Desktop
-#Author		 	 :Mayur Chavhan
-#Site	         :http://www.techwhale.in
+#Script   :Pi4-Remove-GUI.sh
+#Notes    :This script will remove GUI Pi-4 apps and System GUI components from Raspbian Desktop
+#Author	  :Mayur Chavhan
+#Site	    :http://www.techwhale.in
 #==============================================================================
 
 # Remove Raspberry Desktop GUI components
